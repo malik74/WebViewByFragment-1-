@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+		<item name="android:colorPrimary">#ff008dcd</item>
+		<item name="android:colorPrimaryDark">#0080BD</item>
+		<item name="android:colorAccent">#008dcd</item>
+		<item name="windowActionBar">false</item>
+		<item name="windowNoTitle">true</item>
+	</style>
+	<style name="AppTheme.NoActionBar">
+		<item name="windowActionBar">false</item>
+		<item name="windowNoTitle">true</item>
+	</style>
+	<style name="AppTheme.AppBarOverlay"
+		parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+	<style name="AppTheme.PopupOverlay"
+		parent="ThemeOverlay.AppCompat.Light" />
+	
+	<style name="MyCustomTabLayout" parent="@style/Widget.Design.TabLayout">
+		<item name="tabIndicatorColor">@color/white</item>
+		<item name="tabTextAppearance">@style/MyCustomTabText</item>
+		<item name="tabSelectedTextColor">@color/white</item>
+	</style>
+	<style name="MyCustomTabText" parent="@style/TextAppearance.AppCompat.Button">
+		<item name="android:textSize">15.0sp</item>
+		<item name="android:textColor">@color/white</item>
+	</style>
+
+</resources>

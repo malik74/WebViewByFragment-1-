@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WebView Fragment</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="buka">Open</string>
+	<string name="tutup">Close</string>
+	<string name="tab1">Web Browser</string>
+	<string name="tab2">Proggram</string>
+	<string name="tab3">Video</string>
+	<string name="tab4">Sosial Media</string>
+	<string name="tab5">Shop</string>
+	<string name="tab6">Another</string>
+	
+	<string-array name="title">
+        <item>Lis1</item>
+        <item>List2</item>
+        <item>List3</item>
+    </string-array>
+	
+	<string-array name="list1">
+        <item>Inside list1 a</item>
+        <item>Inside list1 b</item>
+        <item>Inside list1 c</item>
+    </string-array>
+	
+	<string-array name="list2">
+        <item>Inside list2 a</item>
+        <item>Inside list2 b</item>
+        <item>Inside list2 c</item>
+	</string-array>
+	
+	<string-array name="list3">
+		<item>Inside list3 a</item>
+		<item>Inside list3 b</item>
+		<item>Inside list3 c</item>
+	</string-array>
+
+</resources>
